@@ -1,5 +1,5 @@
 This is Home page.
-![Screenshot 2024-12-25 000206](https://github.com/user-attachments/assets/0d3e9081-887e-4047-a503-1ba60baed370).
+![Screenshot 2024-12-25 000206](https://github.com/user-attachments/assets/0d3e9081-887e-4047-a503-1ba60baed370)
 This is jobpost page where we can add job.
 ![Screenshot 2024-12-25 000318](https://github.com/user-attachments/assets/82ea53f9-0dd9-44a1-9393-bf8f915a5869)
 This is success page.
